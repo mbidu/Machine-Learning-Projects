@@ -15,6 +15,7 @@ Table of Contents
 
 - Linear Regression
 - Gradient Descent
+
 ![Food Truck Profits - 2 - Linear Regression with Gradient Descent](https://user-images.githubusercontent.com/84108349/150445850-23243c13-48ea-4588-a699-05407a926556.png)
 
 ## 2. Housing Prices
@@ -24,6 +25,9 @@ Table of Contents
 - Mean Normalization
 
 
+
 ## 3. Admissions
 
 - Logistic Regression
+
+
