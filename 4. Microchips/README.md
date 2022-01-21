@@ -1,4 +1,6 @@
 # 4. Microchips
+- Logistic Regression
+- Regularization
 
 ## Data
 Microchip Tests, Pass QA.txt
