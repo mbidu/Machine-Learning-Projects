@@ -12,7 +12,7 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 ## 2. Housing Prices
 
 - Multivariable Regression
-- Gradient Descent and Mean Normalization
+- Multivariable Gradient Descent
 - Mean Normalization
 
 ![Housing Prices - 2 - Multivariable Gradient Descent with Mean Normalization](https://user-images.githubusercontent.com/84108349/150451119-41337e29-87f3-4b00-a909-e715de6c0663.PNG)
