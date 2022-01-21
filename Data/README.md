@@ -13,7 +13,44 @@ Food Truck Profits in a Given City Population
 
 ### Square Feet, Bedrooms, Housing Prices.txt
 
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Square%20Feet%2C%20Bedrooms%2C%20Housing%20Prices.txt
+
 Portland, Oregon Housing Prices
 - House Square Feet (x1)
 - Number of Bedrooms (x2)
 - House Price (y)
+
+## 3. Admissions
+
+### Exam Scores, Admissions.txt
+
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Exam%20Scores%2C%20Admissions.txt
+
+Admissions to University Based on Two Exams
+- Exam 1 Score (x1)
+- Exam 2 Score (x2)
+- Admission (y)
+
+## 4. Microchips
+
+### Microchip Tests, Pass QA.txt
+
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Microchip%20Tests%2C%20Pass%20QA.txt
+
+QA Testing Results for a Microchip
+- Test 1 Score (x1)
+- Test 2 Score (x2)
+- Pass (y)
+
+## 5. Hand Writing Recognition
+
+### Handwritten_Characters.mat
+
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters.mat
+
+Handwriting Examples
+
+## 6. Number Recognition
+
+### 
+
