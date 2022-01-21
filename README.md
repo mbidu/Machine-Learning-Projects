@@ -4,6 +4,14 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 Table of Contents
 
-
+1. Food Trucks
+- Linear Regression
+- Gradient Descent
+2. Housing Prices
+- Multivariable Regression
+- Gradient Descent and Mean Normalization
+- Mean Normalization
+3. Admissions
+- Logistic Regression
 
 ## Food Truck Profits
