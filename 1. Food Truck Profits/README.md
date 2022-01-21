@@ -1,4 +1,6 @@
 # 1. Food Truck Profits
+- Linear Regression
+- Gradient Descent
 
 ## Data
 Food Truck Profits ($10,000), Population (10,000s).txt
