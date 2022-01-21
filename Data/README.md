@@ -49,6 +49,8 @@ QA Testing Results for a Microchip
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters.mat
 
 Handwriting Examples
+- 5000 20 pixel x 20 pixel greyscale images (x)
+- Labels for each image (y)
 
 ## 6. Number Recognition
 
