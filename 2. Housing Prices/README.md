@@ -23,6 +23,6 @@ Portland, Oregon Housing Prices
 
 ![Housing Prices - 2 - Multivariable Gradient Descent with Mean Normalization](https://user-images.githubusercontent.com/84108349/150453225-245e3039-cd62-4f35-8d0e-abc239a5ebfd.PNG)
 
-## 2.3 Normal Equation
+## 2.3. Normal Equation
 
 ![Housing Prices - 3 - Normal Equation - Output](https://user-images.githubusercontent.com/84108349/150453241-ffcf9168-52cd-4646-af8c-68d5fad6cb85.PNG)
