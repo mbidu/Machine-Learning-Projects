@@ -1,4 +1,5 @@
 # 2. Admissions
+- Logistic Regression
 
 ## Data
 Exam Scores, Admissions.txt
