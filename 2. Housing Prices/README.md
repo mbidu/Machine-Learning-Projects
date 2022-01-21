@@ -1,4 +1,7 @@
 # 2. Housing Prices
+- Multivariable Regression
+- Multivariable Gradient Descent
+- Mean Normalization
 
 ## Data
 
