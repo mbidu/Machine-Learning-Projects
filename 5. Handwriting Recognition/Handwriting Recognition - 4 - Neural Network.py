@@ -102,7 +102,7 @@ if __name__ == '__main__':
     print('='*40)
     print('\nLoading Neural Network...\n')
 
-    pathdata = 'ex3weights.mat'
+    pathdata = 'Neural_Network_Parameters.mat'
     path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
     para = loadmat(path)
     Theta1 = para['Theta1'] # (25, 401)
