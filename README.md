@@ -43,4 +43,22 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 ![Handwritting Recognition - 1 - Data - Figure 2](https://user-images.githubusercontent.com/84108349/151634541-a84938c2-e763-4124-adf3-59ce704a9a69.PNG)
 
+![Handwritting Recognition - 3 - OneVsAll - Output 1](https://user-images.githubusercontent.com/84108349/151634031-47c656a3-b5d5-4bca-a915-73d929ce43e6.PNG)
 
+![Handwritting Recognition - 3 - OneVsAll - Output 2](https://user-images.githubusercontent.com/84108349/151634039-2f963985-c02e-42bb-9285-d69f5508c097.PNG)
+
+![Handwritting Recognition - 3 - OneVsAll - Output 3](https://user-images.githubusercontent.com/84108349/151634050-be8c19d4-cd49-4999-b0c5-fae791ed412a.PNG)
+
+## 4.4 Neural Network
+
+![temp](https://user-images.githubusercontent.com/84108349/151634301-33a250a3-20d3-4816-9c76-8088bfb25e2e.png)
+
+![Handwritting Recognition - 4 - Neural Network - Figure 1](https://user-images.githubusercontent.com/84108349/151634405-902ee1c6-439f-4ad0-a523-b6d24c96a99a.PNG)
+
+![temp](https://user-images.githubusercontent.com/84108349/151634334-7e527e76-b578-4f58-80e8-47af1d93d17c.png)
+
+![Handwritting Recognition - 4 - Neural Network - Figure 2](https://user-images.githubusercontent.com/84108349/151634413-b1643a35-c881-4b9e-8b81-bdd5963e6b61.PNG)
+
+![temp](https://user-images.githubusercontent.com/84108349/151634344-39f140aa-2d78-4f0c-b89c-de9d7a1f4197.png)
+
+![Handwritting Recognition - 4 - Neural Network - Figure 3](https://user-images.githubusercontent.com/84108349/151634444-edbd9935-a667-47a2-a20b-28883b75cf42.PNG)
