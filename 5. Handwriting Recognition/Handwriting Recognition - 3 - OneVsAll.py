@@ -1,8 +1,4 @@
-# Shift + Alt + A
-
-import sys
 import os
-
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import optimize
@@ -62,49 +58,53 @@ def Predict_OneVsAll(all_theta, X):
     prediction = np.argmax(h, axis = 1) + 1
     return prediction
 
-num_labels = 10 # 10 labels, from 1 to 10 (note that we have mapped "0" to label 10)
+if __name__ == '__main__':
 
-print('='*18, 'Start', '='*18)
+    input_layer_size = 400
+    hidden_layer_size = 25
+    num_labels = 10
 
-pathdata = 'Handwritten_Characters.mat'
-path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
-data = loadmat(path)
-X, y = data['X'], data['y']
-m, n = X.shape
-y = np.reshape(y, (y.shape[0],1))
+    print('='*18, "Beginning", '='*18)
 
-# Training One Vs All Models
-print('\n', '='*5, 'Training One Vs All Model', '='*5, '\n')
+    pathdata = 'Handwritten_Characters.mat'
+    path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
+    data = loadmat(path)
+    X, y = data['X'], data['y']
+    m, n = X.shape
+    y = np.reshape(y, (y.shape[0],1))
 
-Mylambda = 5
-all_theta = OneVsAll(X, y, num_labels, Mylambda)
-# print('\nMylambda =', Mylambda)
-# print('Trained parameters (all_theta) matrix shape is', num_labels,'x', n+1)
+    # Training One Vs All Models
+    print('\n', '='*5, 'Training One Vs All Model', '='*5, '\n')
 
-# Class Accuracy
-print('\n', '='*12, 'Class Accuracy', '='*12)
+    Mylambda = 5
+    all_theta = OneVsAll(X, y, num_labels, Mylambda)
+    # print('\nMylambda =', Mylambda)
+    # print('Trained parameters (all_theta) matrix shape is', num_labels,'x', n+1)
 
-prediction = Predict_OneVsAll(all_theta, X)
-prediction = np.reshape(prediction, (prediction.shape[0],1))
+    # Class Accuracy
+    print('\n', '='*12, 'Class Accuracy', '='*12)
 
-for i in range(1, num_labels + 1):
-    pred_i = 0
-    for j in range (prediction.shape[0]):
-        if prediction[j,0] == y[j,0] and prediction[j,0] == i:
-            pred_i = pred_i + 1
-    y_i = np.sum(y == i)
-    acc_i = 100*(pred_i / y_i)
+    prediction = Predict_OneVsAll(all_theta, X)
+    prediction = np.reshape(prediction, (prediction.shape[0],1))
 
-    print('\nLearning Class: ', i)
-    print('Accuracy = {:.2f}%'.format(acc_i))
-    print('Actual Cases = ', y_i)
+    for i in range(1, num_labels + 1):
+        pred_i = 0
+        for j in range (prediction.shape[0]):
+            if prediction[j,0] == y[j,0] and prediction[j,0] == i:
+                pred_i = pred_i + 1
+        y_i = np.sum(y == i)
+        acc_i = 100*(pred_i / y_i)
 
-# Overall Accuracy
-print('\n', '='*12, 'Overall Results', '='*12)
+        print('\nLearning Class: ', i)
+        print('Accuracy = {:.2f}%'.format(acc_i))
+        print('Actual Cases = ', y_i)
 
-accuracy = np.mean(prediction == y)
-Correct_pred = np.sum(prediction == y)
-print('\nCorrect Training Set Predictions: {}'.format(Correct_pred))
-print('Training Set Accuracy: {:.2f}%\n'.format(accuracy*100))
+    # Overall Accuracy
+    print('\n', '='*12, 'Overall Results', '='*12)
 
-print('='*18, 'Finish', '='*18)
+    accuracy = np.mean(prediction == y)
+    Correct_pred = np.sum(prediction == y)
+    print('\nCorrect Training Set Predictions: {}'.format(Correct_pred))
+    print('Training Set Accuracy: {:.2f}%\n'.format(accuracy*100))
+
+    print('='*22, "End", '='*22)

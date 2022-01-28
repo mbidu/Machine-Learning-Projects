@@ -86,13 +86,13 @@ ax = pyplot.subplot(121)
 pyplot.plot(np.arange(len(J_historyNorm)), J_historyNorm, lw=2, label = "Mean Normalized")
 pyplot.xlabel('Number of iterations')
 pyplot.ylabel('Cost J')
-pyplot.title('Food Truck Profits and Population Density\nGradient Decent + Mean Normalized')
+pyplot.title('Housing Prices in Portland\nGradient Decent + Mean Normalized')
 
 ax = pyplot.subplot(122)
 pyplot.plot(np.arange(len(J_historyOrig)), J_historyOrig, lw=2, label = "Original")
 pyplot.xlabel('Number of iterations')
 pyplot.ylabel('Cost J')
-pyplot.title('Food Truck Profits and Population Density\nGradient Decent (Overflow)')
+pyplot.title('Housing Prices in Portland\nGradient Decent (Overflow)')
 pass
 
 plt.show()

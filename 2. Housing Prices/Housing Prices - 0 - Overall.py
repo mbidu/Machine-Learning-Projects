@@ -73,7 +73,7 @@ theta, J_history = gradientDescentMulti(X, y, theta, alpha, num_iters)
 pyplot.plot(np.arange(len(J_history)), J_history, lw=2)
 pyplot.xlabel('Number of Iterations')
 pyplot.ylabel('Cost J')
-pyplot.title('Food Truck Profits and Population Density')
+pyplot.title('Housing Prices in Portland')
 plt.show()
 
 print('theta computed from gradient descent: {:s}'.format(str(theta)))
