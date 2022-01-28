@@ -1,4 +1,5 @@
 # 5. Hand Writing Recognition
+- Neural Networks
 - One Vs All
 - Logistic Regression
 - Regularization
@@ -14,22 +15,24 @@ Handwriting Examples
 
 ## 4.1. Plotting Data
 
-![Handwriting Recognition - 1 - Data - Figure 1](https://user-images.githubusercontent.com/84108349/150455931-b6ed234a-a1b6-4cb5-a388-cdaa100ef8d5.png)
+![Handwritting Recognition - 1 - Data - Figure 1](https://user-images.githubusercontent.com/84108349/151633911-62c24f84-2cde-4122-bd65-64cdabf9bec4.PNG)
 
-![Handwriting Recognition - 1 - Data - Figure 2](https://user-images.githubusercontent.com/84108349/150455967-3f31ebc6-fd99-4e16-ad26-8fb5606a672c.png)
+![Handwritting Recognition - 1 - Data - Figure 2](https://user-images.githubusercontent.com/84108349/151633940-43ade8eb-b892-4e1c-bc56-77ebf3954d67.PNG)
 
-![Handwriting Recognition - 1 - Data - Figure 3](https://user-images.githubusercontent.com/84108349/150455981-b04c6819-9e53-49ec-9632-bcca27a8c5b9.png)
-
-![Hand Writing - 1 - Data - Output](https://user-images.githubusercontent.com/84108349/150455809-bce3f100-0923-4f21-8ea7-e2f6d176d3b0.PNG)
+![Handwritting Recognition - 1 - Data - Output](https://user-images.githubusercontent.com/84108349/151633970-8ca70e9c-f447-4813-99b7-b49933a041c5.PNG)
 
 ## 4.2. Logistic Regression + Gradient Descent
 
-![Hand Writing - 2 - Test Logistic Regression and Gradient - Output](https://user-images.githubusercontent.com/84108349/150455826-2d7af0aa-c8bf-48a2-9c0d-8d51fd5a6967.PNG)
+![Handwritting Recognition - 2 - Test Logistic Regression and Gradient - Output](https://user-images.githubusercontent.com/84108349/151634013-39f7ae44-824d-487e-8b9a-6f0400969d4b.PNG)
 
 ## 4.3 One Vs All
 
-![Hand Writing - 3 - OneVsAll - Output 1](https://user-images.githubusercontent.com/84108349/150455850-aa165f24-84f2-4553-af06-6fb55fa90ebb.PNG)
+![Handwritting Recognition - 3 - OneVsAll - Output 1](https://user-images.githubusercontent.com/84108349/151634031-47c656a3-b5d5-4bca-a915-73d929ce43e6.PNG)
 
-![Hand Writing - 3 - OneVsAll - Output 2](https://user-images.githubusercontent.com/84108349/150455862-acce2282-0cf6-46ca-8b0d-652547564172.PNG)
+![Handwritting Recognition - 3 - OneVsAll - Output 2](https://user-images.githubusercontent.com/84108349/151634039-2f963985-c02e-42bb-9285-d69f5508c097.PNG)
 
-![Hand Writing - 3 - OneVsAll - Output 3](https://user-images.githubusercontent.com/84108349/150455891-3c847560-da9a-4fe8-9127-71daafe0eaac.PNG)
+![Handwritting Recognition - 3 - OneVsAll - Output 3](https://user-images.githubusercontent.com/84108349/151634050-be8c19d4-cd49-4999-b0c5-fae791ed412a.PNG)
+
+## 4.4 Neural Network
+
+![Handwritting Recognition - 4 - Neural Network - Figure 1](https://user-images.githubusercontent.com/84108349/151634207-1daaafec-ab57-45ac-8c32-9bb9114156fc.PNG)
