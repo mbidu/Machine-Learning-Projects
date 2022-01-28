@@ -51,6 +51,6 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 ![Handwritting Recognition - 4 - Neural Network - Figure 2](https://user-images.githubusercontent.com/84108349/151634413-b1643a35-c881-4b9e-8b81-bdd5963e6b61.PNG)
 
-
+![temp](https://user-images.githubusercontent.com/84108349/151634395-c519a8fe-ebd4-495e-be21-c0c59cf2d5d0.png)
 
 ![Handwritting Recognition - 4 - Neural Network - Figure 3](https://user-images.githubusercontent.com/84108349/151634444-edbd9935-a667-47a2-a20b-28883b75cf42.PNG)
