@@ -52,7 +52,10 @@ Handwriting Examples
 - 5000 20 pixel x 20 pixel greyscale images (x)
 - Labels for each image (y)
 
-## 6. Number Recognition
+### Neural_Network_Parameters.mat
 
-### 
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Network_Parameters.mat
+
+Neural Network Parameters
+- Pre-determined Neural Network Parameters
 
