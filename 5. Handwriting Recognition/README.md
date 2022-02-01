@@ -1,8 +1,11 @@
 # 5. Hand Writing Recognition
-- Neural Networks
 - One Vs All
 - Logistic Regression
 - Regularization
+
+- Neural Networks
+- Backpropagation
+- Conjugate Gradient
 
 ## Data
 Handwritten_Characters.mat
