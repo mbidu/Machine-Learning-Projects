@@ -3,7 +3,8 @@
 - Gradient Descent
 
 ## Data
-Food Truck Profits ($10,000), Population (10,000s).txt
+
+### Food Truck Profits ($10,000), Population (10,000s).txt
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Food%20Truck%20Profits%20(%2410%2C000)%2C%20Population%20(10%2C000s).txt
 
