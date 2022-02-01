@@ -4,7 +4,8 @@
 - Regularization
 
 ## Data
-Handwritten_Characters.mat
+
+### Handwritten_Characters.mat
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters.mat
 
