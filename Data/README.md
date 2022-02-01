@@ -71,7 +71,7 @@ https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Netwo
 Neural Network Parameters
 - Pre-determined Neural Network Parameters
 
-###  5.2.1. Neural Network - Backpropagation
+###  5.2.2. Neural Network - Backpropagation
 
 #### Handwritten_Characters2.mat
 
