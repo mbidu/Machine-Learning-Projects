@@ -2,7 +2,8 @@
 - Logistic Regression
 
 ## Data
-Exam Scores, Admissions.txt
+
+### Exam Scores, Admissions.txt
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Exam%20Scores%2C%20Admissions.txt
 
