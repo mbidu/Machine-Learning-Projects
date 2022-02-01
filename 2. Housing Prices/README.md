@@ -5,7 +5,7 @@
 
 ## Data
 
-Square Feet, Bedrooms, Housing Prices.txt
+### Square Feet, Bedrooms, Housing Prices.txt
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Square%20Feet%2C%20Bedrooms%2C%20Housing%20Prices.txt
 
