@@ -1,4 +1,4 @@
-# 5. Hand Writing Recognition
+# 5.2.1. Hand Writing Recognition - Feedforward
 - Neural Networks
 - Regularization
 - Feedforward
