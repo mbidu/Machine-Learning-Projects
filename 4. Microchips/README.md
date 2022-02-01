@@ -3,7 +3,8 @@
 - Regularization
 
 ## Data
-Microchip Tests, Pass QA.txt
+
+### Microchip Tests, Pass QA.txt
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Microchip%20Tests%2C%20Pass%20QA.txt
 
