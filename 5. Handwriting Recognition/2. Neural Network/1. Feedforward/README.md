@@ -4,13 +4,16 @@
 - Feedforward
 
 ## Data
-Handwritten_Characters.mat
+
+### Handwritten_Characters.mat
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters.mat
 
 Handwriting Examples
 - 5000 20 pixel x 20 pixel greyscale images (x)
 - Labels for each image (y)
+
+### Neural_Network_Parameters.mat
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Network_Parameters.mat
 
