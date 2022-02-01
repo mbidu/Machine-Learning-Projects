@@ -273,7 +273,7 @@ if __name__ == '__main__':
     print('='*18, "Beginning", '='*18)
     print("\nLoading Data...\n")
 
-    pathdata = 'ex4data1.mat'
+    pathdata = 'Handwritten_Characters2.mat'
     path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
     data = loadmat(path)
     # 5000 20pix x 20pix characters
@@ -293,7 +293,7 @@ if __name__ == '__main__':
     print('='*40)
     print("\nLoading Pre-Determined Parameters...\n")
 
-    pathdata = 'ex4weights.mat'
+    pathdata = 'Neural_Network_Parameters2.mat'
     path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
     pre_weights = loadmat(path)
 
