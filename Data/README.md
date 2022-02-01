@@ -44,7 +44,9 @@ QA Testing Results for a Microchip
 
 ## 5. Hand Writing Recognition
 
-### Handwritten_Characters.mat
+### 5.1. One Vs All
+
+#### Handwritten_Characters.mat
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters.mat
 
@@ -52,10 +54,36 @@ Handwriting Examples
 - 5000 20 pixel x 20 pixel greyscale images (x)
 - Labels for each image (y)
 
-### Neural_Network_Parameters.mat
+###  5.2. Neural Network (Given Parameters)
+
+#### Handwritten_Characters.mat
+
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters.mat
+
+Handwriting Examples
+- 5000 20 pixel x 20 pixel greyscale images (x)
+- Labels for each image (y)
+
+#### Neural_Network_Parameters.mat
 
 https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Network_Parameters.mat
 
 Neural Network Parameters
 - Pre-determined Neural Network Parameters
 
+###  5.3. Neural Network (Backpropagation)
+
+#### Handwritten_Characters2.mat
+
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Handwritten_Characters2.mat
+
+Handwriting Examples
+- 5000 20 pixel x 20 pixel greyscale images (x)
+- Labels for each image (y)
+
+#### Neural_Network_Parameters2.mat
+
+https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Network_Parameters2.mat
+
+Neural Network Parameters
+- Pre-determined Neural Network Parameters
