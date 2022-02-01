@@ -54,7 +54,7 @@ Handwriting Examples
 - 5000 20 pixel x 20 pixel greyscale images (x)
 - Labels for each image (y)
 
-###  5.2. Neural Network (Given Parameters)
+###  5.2.1. Neural Network - Feedforward
 
 #### Handwritten_Characters.mat
 
@@ -71,7 +71,7 @@ https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Netwo
 Neural Network Parameters
 - Pre-determined Neural Network Parameters
 
-###  5.3. Neural Network (Backpropagation)
+###  5.2.1. Neural Network - Backpropagation
 
 #### Handwritten_Characters2.mat
 
