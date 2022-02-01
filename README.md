@@ -34,10 +34,13 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 ## 5. Hand Writing Recognition
 
-- Neural Networks
 - One Vs All
 - Logistic Regression
 - Regularization
+
+- Neural Networks
+- Feedforward
+- Backpropagation
 
 ![Handwritting Recognition - 1 - Data - Figure 1](https://user-images.githubusercontent.com/84108349/151634536-3b34b1af-2c19-4145-bea6-985993d2b0a9.PNG)
 
