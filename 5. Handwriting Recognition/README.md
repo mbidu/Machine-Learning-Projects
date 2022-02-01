@@ -13,16 +13,20 @@
 
 ## 5.2.1. Neural Networks - Feedforward
 - Neural Networks
-- Backpropagation
-- Conjugate Gradient
+- Feedforward
+- Regularization
 
 ![Handwritting Recognition - 4 - Neural Network - Figure 1](https://user-images.githubusercontent.com/84108349/151634405-902ee1c6-439f-4ad0-a523-b6d24c96a99a.PNG)
 
 ![temp](https://user-images.githubusercontent.com/84108349/151634344-39f140aa-2d78-4f0c-b89c-de9d7a1f4197.png)
 
 ## 5.2.2. Neural Networks - Backpropagation
+- Neural Networks
+- Backpropagation
+- Conjugate Gradient
+- Regularization
 
-Visualizing Hidden Layer
+### Visualizing Hidden Layer
 
 ![Handwritting Recognition - 2 2 0 - Overall - Figure 2](https://user-images.githubusercontent.com/84108349/152051882-e44a04e7-78f0-476c-9654-e5675fcadb9c.PNG)
 
