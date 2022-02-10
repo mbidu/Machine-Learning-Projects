@@ -41,24 +41,25 @@
 
 ![Dam Water Flow - 7 2 - Polynomial Regression  - L=1](https://user-images.githubusercontent.com/84108349/153317091-378bc7c5-aa27-4573-9541-815a7a8d619f.png)
 
-![image](https://user-images.githubusercontent.com/84108349/153317121-1f2963d2-fa49-4a53-9f0b-9676d35b4f2d.png)
-
 ![image](https://user-images.githubusercontent.com/84108349/153317160-e56da98f-4f2d-44dd-805a-3d4de1cdfa98.png)
 
-![image](https://user-images.githubusercontent.com/84108349/153317192-c6a27c82-756b-475d-a749-3193364ca247.png)
+![image](https://user-images.githubusercontent.com/84108349/153317121-1f2963d2-fa49-4a53-9f0b-9676d35b4f2d.png)
 
 ![image](https://user-images.githubusercontent.com/84108349/153317227-5822f629-cb2d-48ad-a63b-64727a28b51b.png)
 
+![image](https://user-images.githubusercontent.com/84108349/153317192-c6a27c82-756b-475d-a749-3193364ca247.png)
+
+
 ## 6.8. Selecting Lambda
 
-![Dam Water Flow - 8 1 - Selecting Lambda - ErrorVsLambda](https://user-images.githubusercontent.com/84108349/153316354-156c90c3-99dc-403b-af2b-69e50c33dafe.png)
-
 ![Dam Water Flow - 8 - Output](https://user-images.githubusercontent.com/84108349/153316291-ec188da0-62ec-4e81-ab68-c85015317a5d.png)
+
+![Dam Water Flow - 8 1 - Selecting Lambda - ErrorVsLambda](https://user-images.githubusercontent.com/84108349/153316354-156c90c3-99dc-403b-af2b-69e50c33dafe.png)
 
 ![Dam Water Flow - 8 2 - Selecting Lambda - Polynomial Regression Best L](https://user-images.githubusercontent.com/84108349/153316327-db31a3a1-1544-4157-ba0d-a2d51933fa8a.png)
 
 ## 6.9. Computing Test Error
 
-![Dam Water Flow - 9 - Computing Test Error - Polynomial Regression Best L (Test Data)](https://user-images.githubusercontent.com/84108349/153316469-450d5df5-39ba-4894-befd-0aa5bbd2fd34.png)
-
 ![Dam Water Flow - 9 - Output](https://user-images.githubusercontent.com/84108349/153316503-17202816-7bd3-4867-80a3-8d1e8b6e508b.png)
+
+![Dam Water Flow - 9 - Computing Test Error - Polynomial Regression Best L (Test Data)](https://user-images.githubusercontent.com/84108349/153316469-450d5df5-39ba-4894-befd-0aa5bbd2fd34.png)
