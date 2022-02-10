@@ -75,6 +75,7 @@ iterations = 1500
 alpha = 0.01
 
 theta, J_history = gradientDescent(X ,y, theta, alpha, iterations)
+print(theta.shape)
 print('Theta found by gradient descent: {:.4f}, {:.4f}'.format(*theta))
 print('Expected theta values (approximately): [-3.6303, 1.1664]\n')
 
