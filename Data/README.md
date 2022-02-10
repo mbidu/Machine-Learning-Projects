@@ -88,7 +88,7 @@ https://github.com/mbidu/Machine-Learning-Algorithms/blob/main/Data/Neural_Netwo
 Neural Network Parameters
 - Pre-determined Neural Network Parameters
 
-###  6. Dam Water Flow
+##  6. Dam Water Flow
 
 #### Handwritten_Characters2.mat
 
