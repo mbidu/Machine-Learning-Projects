@@ -47,3 +47,18 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 ![temp](https://user-images.githubusercontent.com/84108349/151634334-7e527e76-b578-4f58-80e8-47af1d93d17c.png)
 
 ![Handwritting Recognition - 4 - Neural Network - Figure 1](https://user-images.githubusercontent.com/84108349/151634405-902ee1c6-439f-4ad0-a523-b6d24c96a99a.PNG)
+
+## 6. Dam Water Flow
+
+- Linear Regression
+- Bias/Variance
+- Learning Curves
+- Selecting Lambda
+- Training/CV/Test Data
+
+![Dam Water Flow - 8 1 - Selecting Lambda - ErrorVsLambda](https://user-images.githubusercontent.com/84108349/153315799-9b3edaee-ceea-4b9b-ac19-3307af892a26.png)
+
+![image](https://user-images.githubusercontent.com/84108349/153315889-d38a3224-11a0-440d-a116-658cf2752935.png)
+
+
+![Dam Water Flow - 9 - Computing Test Error - Polynomial Regression Best L (Test Data)](https://user-images.githubusercontent.com/84108349/153315832-0a16e400-6e93-4d66-a808-2fbcd35bcb69.png)
