@@ -37,7 +37,6 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 - One Vs All
 - Logistic Regression
 - Regularization
-
 - Neural Networks
 - Feedforward
 - Backpropagation
