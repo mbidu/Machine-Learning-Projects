@@ -1,5 +1,6 @@
 import os
 import numpy as np
+import warnings
 from matplotlib import pyplot as plt
 from scipy import optimize
 from scipy.io import loadmat
@@ -8,8 +9,6 @@ from sklearn import svm
 from gaussian_kernel import gaussian_kernel
 from plot_data import plot_data
 from visualize_boundary import visualize_boundary
-
-import warnings
 
 if __name__ == '__main__':
 
@@ -52,7 +51,8 @@ if __name__ == '__main__':
 
     # SVM Parameters
     C = 100     # C = 1/Lambda
-    gamma = 10
+    # gamma is the kernel normalization coefficient
+    gamma = 10  # gamma is the kernel normalization coefficient
 
     clf = svm.SVC(C=C, kernel='rbf', gamma=gamma)
     clf.fit(X, y)

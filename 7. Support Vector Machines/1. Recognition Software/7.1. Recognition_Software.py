@@ -37,6 +37,7 @@ if __name__ == '__main__':
     print('='*10, 'Part 2: Training Linear Kernel SVM', '='*10)
     print("\nTraining SVM...\n")
 
+    # C = 1/Lambda
     for C in [0.01,1,100]:
         clf = svm.LinearSVC(C=C, dual=False)
         clf.fit(X, y)
