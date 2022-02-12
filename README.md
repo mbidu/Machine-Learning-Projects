@@ -62,3 +62,36 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 
 ![Dam Water Flow - 9 - Computing Test Error - Polynomial Regression Best L (Test Data)](https://user-images.githubusercontent.com/84108349/153315832-0a16e400-6e93-4d66-a808-2fbcd35bcb69.png)
+
+## 07. Recognition Software
+### Supervised Learning - Classification - Support Vector Machines
+
+- Supervised Learning
+- Classification
+- Support Vector Machines
+- Linear Kernel
+
+![Recognition Software - 07 2 - Training Linear Kernel SVM - C=1](https://user-images.githubusercontent.com/84108349/153731482-7768289d-079c-4686-ac99-10e84e98f16e.png)
+
+## 08. Engineering Graduates
+### Supervised Learning - Classification - Support Vector Machines
+
+- Supervised Learning
+- Classification
+- Support Vector Machines
+- Gaussian Kernel (Non-Linear)
+
+![Engineering Graduates - 08 3 - Training RBF Kernel SVM](https://user-images.githubusercontent.com/84108349/153731512-5ae2bd07-1d74-4abc-aee9-e3972a489ff7.png)
+
+## 09. NFL Linemen
+
+- Supervised Learning
+- Classification
+- Support Vector Machines
+- Gaussian Kernel (Non-Linear)
+- Selecting the Best Values for C (1/Lambda) and the Varriance
+
+![NFL Linemen - 09 2 - Training RBF Kernel SVM](https://user-images.githubusercontent.com/84108349/153731597-2158393b-72ff-475d-a741-cfb6c68ddad7.png)
+
+## 10. Spam Filter
+
