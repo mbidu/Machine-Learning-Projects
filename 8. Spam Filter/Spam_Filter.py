@@ -103,7 +103,7 @@ if __name__ == '__main__':
     # ========================= Part 6: Classifying Additional Emails ========================
     print('\n', '='*10, 'Part 6: Classifying Additional Emails', '='*10)
 
-    for filename in ['spamSample1.txt', 'Email2.txt', 'spamSample1.txt']:
+    for filename in ['Spam1.txt', 'Email2.txt', 'Spam2.txt']:
         filepath = os.path.join('/Users/mackt/Python/Machine Learning/Data', filename)
 
         with open(filepath) as f:
@@ -120,3 +120,4 @@ if __name__ == '__main__':
         print(filename, 'is', p, '\n')
         print(file_contents)
 
+    print('\n','='*22, "End", '='*22)
