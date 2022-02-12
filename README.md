@@ -2,14 +2,14 @@
 ## Mackenzie Biduk 2021-2022
 The following are Machine Learning algorithms I learned during the coursera Machine Learning course I took from Stanford during the summer of 2021.
 
-## 1. Food Truck Profits
+## 01. Food Truck Profits
 
 - Linear Regression
 - Gradient Descent
 
 ![Food Truck Profits - 2 - Linear Regression with Gradient Descent](https://user-images.githubusercontent.com/84108349/150445850-23243c13-48ea-4588-a699-05407a926556.png)
 
-## 2. Housing Prices
+## 02. Housing Prices
 
 - Multivariable Regression
 - Multivariable Gradient Descent
@@ -19,20 +19,20 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 ![Housing Prices - 3 - Normal Equation - Output](https://user-images.githubusercontent.com/84108349/150451138-fb310e3d-1373-4c69-a347-9a01dc804779.PNG)
 
-## 3. Admissions
+## 03. Admissions
 
 - Logistic Regression
 
 ![Admissions - 2 - Logistic Regression - Figure](https://user-images.githubusercontent.com/84108349/150451194-f419b3ed-86dd-45d6-99c3-329b5e10718d.png)
 
-## 4. Microchips
+## 04. Microchips
 
 - Logistic Regression
 - Regularization
 
 ![Microchips - 2 - Regularized Logistic Regression - Figure](https://user-images.githubusercontent.com/84108349/150451417-6c1f253b-1447-4578-a8fc-c04d9d513f4a.png)
 
-## 5. Hand Writing Recognition
+## 05. Hand Writing Recognition
 
 - One Vs All
 - Logistic Regression
@@ -48,7 +48,7 @@ The following are Machine Learning algorithms I learned during the coursera Mach
 
 ![Handwritting Recognition - 4 - Neural Network - Figure 1](https://user-images.githubusercontent.com/84108349/151634405-902ee1c6-439f-4ad0-a523-b6d24c96a99a.PNG)
 
-## 6. Dam Water Flow
+## 06. Dam Water Flow
 
 - Linear Regression
 - Bias/Variance
