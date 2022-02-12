@@ -30,7 +30,7 @@ if __name__ == '__main__':
     print('='*10, 'Part 2: Loading and Visualizing Data', '='*10)
     print("\nLoading Data...\n")
 
-    pathdata = '7.2. Engineering Graduates.mat'
+    pathdata = '8. Engineering Graduates.mat'
     path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
     data = loadmat(path)
 

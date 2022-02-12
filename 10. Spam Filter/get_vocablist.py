@@ -1,6 +1,6 @@
 def get_vocablist():
     vocabulary = []
-    with open(r'C:\Users\mackt\Python\Machine Learning\Data\vocab.txt') as f:
+    with open(r'C:\Users\mackt\Python\Machine Learning\Data\10. vocab.txt') as f:
         for line in f:
             idx, word = line.split('\t')
             vocabulary.append(word.strip()) # Remove leading and trailing spaces

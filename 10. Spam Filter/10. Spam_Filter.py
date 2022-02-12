@@ -18,7 +18,7 @@ if __name__ == '__main__':
     print('='*10, 'Part 1: Email Processing', '='*10)
     print('\nProcessing Email 1...\n')
 
-    with open(r'C:\Users\mackt\Python\Machine Learning\Data\Email1.txt') as f:
+    with open(r'C:\Users\mackt\Python\Machine Learning\Data\10. Email1.txt') as f:
         file_contents = f.read().replace('\n', '')
 
     word_indices, words, email_sentence = process_email(file_contents)
@@ -47,7 +47,7 @@ if __name__ == '__main__':
     print('\nProcessing Training Data...\n')
 
     # 4000 Training Examples of spam and non-spam emails
-    pathdata = 'spamTrain.mat'
+    pathdata = '10. spamTrain.mat'
     path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
     data = loadmat(path)
 
@@ -71,7 +71,7 @@ if __name__ == '__main__':
     print('\nProcessing Test Data...\n')
 
     # 1000 Test Examples of spam and non-spam emails
-    pathdata = 'spamTest.mat'
+    pathdata = '10. spamTest.mat'
     path = os.path.join('/Users/mackt/Python/Machine Learning/Data', pathdata)
     data = loadmat(path)
 
@@ -103,7 +103,7 @@ if __name__ == '__main__':
     # ========================= Part 6: Classifying Additional Emails ========================
     print('\n', '='*10, 'Part 6: Classifying Additional Emails', '='*10)
 
-    for filename in ['Spam1.txt', 'Email2.txt', 'Spam2.txt']:
+    for filename in ['10. Spam1.txt', '10. Email2.txt', '10. Spam2.txt']:
         filepath = os.path.join('/Users/mackt/Python/Machine Learning/Data', filename)
 
         with open(filepath) as f:
