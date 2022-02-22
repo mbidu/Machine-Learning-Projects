@@ -91,7 +91,7 @@ Dam Water Flow Data
 - Water flowing out of the dam (KL/s) (y)
 
 ##  7. Recognition Software
-#### Recognition Software.mat
+### Recognition Software.mat
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/7.%20Recognition%20Software.mat
 
@@ -100,7 +100,7 @@ Recognition Software
 - Correct Humans Found (x100) (y)
 
 ##  8. Engineering Graduates
-#### Engineering Graduates.mat
+### Engineering Graduates.mat
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/8.%20Engineering%20Graduates.mat
 
@@ -109,7 +109,7 @@ Engineering Graduates
 - Grade 9 English Mark (y)
 
 ##  9. NFL Linemen
-#### NFL Linemen.mat
+### NFL Linemen.mat
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/9.%20NFL%20Linemen.mat
 
@@ -118,43 +118,43 @@ NFL Linemen
 - 40-Yard Dash (y)
 
 ##  10. Spam Filter
-#### Email1.txt
+### Email1.txt
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20Email1.txt
 
 Non-Spam Email #1
 
-#### Email2.txt
+### Email2.txt
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20Email2.txt
 
 Non-Spam Email #2
 
-#### Spam1.txt
+### Spam1.txt
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20Email1.txt
 
 Spam Email #1
 
-#### Spam2.txt
+### Spam2.txt
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20Spam2.txt
 
 Spam Email #2
 
-#### spamTest.mat
+### spamTest.mat
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20spamTest.mat
 
 1000 Training Examples of Spam and Non-Spam Emails
 
-#### spamTrain.mat
+### spamTrain.mat
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20spamTrain.mat
 
 4000 Training Examples of Spam and Non-Spam Emails
 
-#### vocab.txt
+### vocab.txt
 
 https://github.com/mbidu/Machine-Learning-Projects/blob/main/Data/10.%20vocab.txt
 
