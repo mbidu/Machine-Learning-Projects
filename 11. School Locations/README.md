@@ -5,15 +5,15 @@
 - Clustering
 - K-Means
 
-## 11.1. Loading and Visualizing Data
+## 11.1. Find Closest Centroid
 
 ![School Locations - 11 1 - Find Closest Centroid](https://user-images.githubusercontent.com/84108349/155218189-74a3fc12-8fa6-4d9b-8333-3d7ef1c199d0.png)
 
-## 11.2. Linear Regression Cost
+## 11.2. Centroid Means
 
 ![School Locations - 11 2 - Centroids Means](https://user-images.githubusercontent.com/84108349/155218230-e5317876-c6c3-4c85-9875-5fa09ff763dd.png)
 
-## 11.3. Linear Regression Gradient
+## 11.3. K-Means Clustering
 
 ![School Locations - 11 3 - K-Means Clustering](https://user-images.githubusercontent.com/84108349/155218273-4d3d7e54-184a-4efe-ad73-8718ed070bd0.png)
 
